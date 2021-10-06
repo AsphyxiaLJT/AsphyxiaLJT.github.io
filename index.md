@@ -8,7 +8,7 @@
       <p><b>地址：北京市海淀区学院路38号北京大学医学部</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      %
+      <img src="/zhengjianzhao.jpg" width="100%">      
      </td>
   </tr>
 </table>
