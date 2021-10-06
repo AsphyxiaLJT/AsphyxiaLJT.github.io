@@ -12,4 +12,4 @@
      </td>
   </tr>
 </table>
-<img scr="https://github.com/AsphyxiaLJT/AsphyxiaLJT.github.io/blob/main/%E6%BB%91%E7%A8%BD.jpg">
+<img scr="https://github.com/AsphyxiaLJT/AsphyxiaLJT.github.io/blob/main/%E6%BB%91%E7%A8%BD.jpg?raw=true">
