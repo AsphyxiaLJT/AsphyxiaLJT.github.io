@@ -8,7 +8,7 @@
       <p><b>地址：北京市海淀区学院路38号北京大学医学部</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % https://raw.githubusercontent.com/AsphyxiaLJT/AsphyxiaLJT.github.io/main/%E6%BB%91%E7%A8%BD.jpg
+      <img src="/滑稽.jpg" width="100%">      
      </td>
   </tr>
 </table>
